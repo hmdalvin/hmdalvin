@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Python, C++, Javscript etc.
 - 💞️ I’m looking to collaborate on Python or Javacript Project
 - 📫 How to reach me :
-     Instagram : @hmdalvin
-     Email : aafian987@gmail.com
-     Facebook : Ahmad Alfianto
+    - Instagram : @hmdalvin
+    - Email : aafian987@gmail.com
+    - Facebook : Ahmad Alfianto
